@@ -148,32 +148,32 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: robot_azul
-    second: {fileID: 2100000, guid: 9de232ef787bce84abfb2b115648140c, type: 2}
+    second: {fileID: 2100000, guid: 322708238104e464db38d915facf5971, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: robot_cerebro
-    second: {fileID: 2100000, guid: f68508c22e22fb04a948ff0dc96b1bf5, type: 2}
+    second: {fileID: 2100000, guid: d7951cc84d6f39f458e35d8b40b5a425, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: robot_iris
-    second: {fileID: 2100000, guid: b53a2a3a468a9124b9646841fd6e6362, type: 2}
+    second: {fileID: 2100000, guid: 0b96c8d08e43a1540a3dc43c2938ec8b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: robot_mascara
-    second: {fileID: 2100000, guid: 259c96e89e025c44a85b5b22b75b6901, type: 2}
+    second: {fileID: 2100000, guid: 50abe88dfa7a54942b12de30d471a3ae, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: robot_metal
-    second: {fileID: 2100000, guid: 834496b132fc73440ad2f1d6f4276e69, type: 2}
+    second: {fileID: 2100000, guid: 03ace79bf9f34564e9ccf0ff9167aede, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: robot_naranja
-    second: {fileID: 2100000, guid: 0d0b599cc279c03438d19b89b55477e5, type: 2}
+    second: {fileID: 2100000, guid: 6fc4076bffdfefe4abacd8eb59dd39a2, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -199,7 +199,35 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
